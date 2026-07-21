@@ -1,0 +1,860 @@
+{
+  "field": "مهندسی کامپیوتر",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "id": 1,
+          "code": "1322087",
+          "name": "مبانی کامپیوتر و برنامه‌سازی",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": [
+            {
+              "title": "جزوه مبانی کامپیوتر و برنامه‌سازی",
+              "author": "دکتر محمد حسین صادقی",
+              "year": 1402,
+              "type": "PDF",
+              "url": "https://example.com/mabani.pdf",
+              "description": "جزوه کامل درس مبانی کامپیوتر و برنامه‌سازی"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "code": "1322088",
+          "name": "کارگاه کامپیوتر و برنامه‌نویسی",
+          "credits": 1,
+          "type": "اصلی",
+          "resources": [
+            {
+              "title": "راهنمای کارگاه کامپیوتر",
+              "author": "دکتر علی رضایی",
+              "year": 1402,
+              "type": "PDF",
+              "url": "https://example.com/kargah.pdf",
+              "description": "راهنمای عملی کارگاه"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "code": "1111099",
+          "name": "ریاضی عمومی ۱",
+          "credits": 3,
+          "type": "پایه",
+          "resources": [
+            {
+              "title": "کتاب ریاضی عمومی ۱",
+              "author": "دکتر مسعود نیکوکار",
+              "year": 1401,
+              "type": "PDF",
+              "url": "https://example.com/riazi1.pdf",
+              "description": "کامل کتاب ریاضی عمومی ۱"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "code": "1113094",
+          "name": "فیزیک ۱",
+          "credits": 3,
+          "type": "پایه",
+          "resources": [
+            {
+              "title": "کتاب فیزیک ۱",
+              "author": "دکتر محمود بهزاد",
+              "year": 1401,
+              "type": "PDF",
+              "url": "https://example.com/fizik1.pdf",
+              "description": "کتاب فیزیک ۱ مکانیک و گرما"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "code": "1115064",
+          "name": "کارگاه عمومی",
+          "credits": 1,
+          "type": "عمومی",
+          "resources": [
+            {
+              "title": "راهنمای کارگاه عمومی",
+              "author": "دانشگاه پیام نور",
+              "year": 1400,
+              "type": "PDF",
+              "url": "https://example.com/kargah-omomi.pdf",
+              "description": "راهنمای کارگاه عمومی"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "code": "1213209",
+          "name": "فارسی",
+          "credits": 3,
+          "type": "عمومی",
+          "resources": [
+            {
+              "title": "کتاب فارسی عمومی",
+              "author": "سازمان سنجش",
+              "year": 1400,
+              "type": "PDF",
+              "url": "https://example.com/farsi.pdf",
+              "description": "کتاب فارسی عمومی"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "code": "1212255",
+          "name": "زبان انگلیسی عمومی",
+          "credits": 3,
+          "type": "عمومی",
+          "resources": [
+            {
+              "title": "کتاب زبان انگلیسی عمومی",
+              "author": "دکتر محسن رضایی",
+              "year": 1401,
+              "type": "PDF",
+              "url": "https://example.com/english.pdf",
+              "description": "کتاب زبان انگلیسی عمومی"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "id": 8,
+          "code": "1322089",
+          "name": "برنامه‌نویسی پیشرفته",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": [
+            {
+              "title": "جزوه برنامه‌نویسی پیشرفته",
+              "author": "دکتر سید احمد موسوی",
+              "year": 1402,
+              "type": "PDF",
+              "url": "https://example.com/advanced.pdf",
+              "description": "(جاوا) جزوه برنامه‌نویسی پیشرفته"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "code": "1322090",
+          "name": "کارگاه برنامه‌نویسی پیشرفته",
+          "credits": 1,
+          "type": "اصلی",
+          "resources": [
+            {
+              "title": "راهنمای کارگاه برنامه‌نویسی پیشرفته",
+              "author": "دکتر علی رضایی",
+              "year": 1402,
+              "type": "PDF",
+              "url": "https://example.com/advanced-lab.pdf",
+              "description": "راهنمای کارگاه"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "code": "1111473",
+          "name": "ریاضیات گسسته",
+          "credits": 3,
+          "type": "پایه",
+          "resources": [
+            {
+              "title": "کتاب ریاضیات گسسته",
+              "author": "دکتر مسعود نیکوکار",
+              "year": 1401,
+              "type": "PDF",
+              "url": "https://example.com/gosaste.pdf",
+              "description": "کتاب ریاضیات گسسته"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "code": "1111100",
+          "name": "ریاضی عمومی ۲",
+          "credits": 3,
+          "type": "پایه",
+          "resources": [
+            {
+              "title": "کتاب ریاضی عمومی ۲",
+              "author": "دکتر مسعود نیکوکار",
+              "year": 1401,
+              "type": "PDF",
+              "url": "https://example.com/riazi2.pdf",
+              "description": "کتاب ریاضی عمومی ۲"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "code": "1113095",
+          "name": "فیزیک ۲",
+          "credits": 3,
+          "type": "پایه",
+          "resources": [
+            {
+              "title": "کتاب فیزیک ۲",
+              "author": "دکتر محمود بهزاد",
+              "year": 1401,
+              "type": "PDF",
+              "url": "https://example.com/fizik2.pdf",
+              "description": "کتاب فیزیک ۲"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "code": "1225008",
+          "name": "زبان تخصصی",
+          "credits": 2,
+          "type": "عمومی",
+          "resources": [
+            {
+              "title": "کتاب زبان تخصصی کامپیوتر",
+              "author": "دکتر محسن رضایی",
+              "year": 1401,
+              "type": "PDF",
+              "url": "https://example.com/english-specialized.pdf",
+              "description": "کتاب زبان تخصصی"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "code": "1233028",
+          "name": "تفسیر موضوعی قرآن",
+          "credits": 2,
+          "type": "عمومی",
+          "resources": [
+            {
+              "title": "کتاب تفسیر موضوعی قرآن",
+              "author": "سازمان سنجش",
+              "year": 1400,
+              "type": "PDF",
+              "url": "https://example.com/quran.pdf",
+              "description": "کتاب تفسیر موضوعی قرآن"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "courses": [
+        {
+          "id": 15,
+          "code": "1322092",
+          "name": "مدارهای الکتریکی و الکترونیکی",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": [
+            {
+              "title": "کتاب مدارهای الکتریکی و الکترونیکی",
+              "author": "دکتر حسین کریمی",
+              "year": 1401,
+              "type": "PDF",
+              "url": "https://example.com/madare.pdf",
+              "description": "کتاب مدارهای الکتریکی و الکترونیکی"
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "code": "1322093",
+          "name": "آزمایشگاه مدارهای الکتریکی و الکترونیکی",
+          "credits": 1,
+          "type": "اصلی",
+          "resources": [
+            {
+              "title": "راهنمای آزمایشگاه مدارهای الکتریکی",
+              "author": "دکتر حسین کریمی",
+              "year": 1401,
+              "type": "PDF",
+              "url": "https://example.com/madare-lab.pdf",
+              "description": "راهنمای آزمایشگاه"
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "code": "1115139",
+          "name": "مدارهای منطقی",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": [
+            {
+              "title": "کتاب مدارهای منطقی",
+              "author": "دکتر محمد مهدی پور",
+              "year": 1401,
+              "type": "PDF",
+              "url": "https://example.com/manteghi.pdf",
+              "description": "کتاب مدارهای منطقی"
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "code": "1115006",
+          "name": "آزمایشگاه مدارهای منطقی",
+          "credits": 1,
+          "type": "اصلی",
+          "resources": [
+            {
+              "title": "راهنمای آزمایشگاه مدارهای منطقی",
+              "author": "دکتر محمد مهدی پور",
+              "year": 1401,
+              "type": "PDF",
+              "url": "https://example.com/manteghi-lab.pdf",
+              "description": "راهنمای آزمایشگاه"
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "code": "1322188",
+          "name": "ساختمان های داده",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": [
+            {
+              "title": "کتاب ساختمان های داده",
+              "author": "دکتر سید احمد موسوی",
+              "year": 1402,
+              "type": "PDF",
+              "url": "https://example.com/data-structure.pdf",
+              "description": "کتاب ساختمان های داده"
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "code": "1112149",
+          "name": "آمار و احتمال مهندسی",
+          "credits": 3,
+          "type": "پایه",
+          "resources": [
+            {
+              "title": "کتاب آمار و احتمال مهندسی",
+              "author": "دکتر مسعود نیکوکار",
+              "year": 1401,
+              "type": "PDF",
+              "url": "https://example.com/amar.pdf",
+              "description": "کتاب آمار و احتمال مهندسی"
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "code": "1111101",
+          "name": "معادلات دیفرانسیل",
+          "credits": 3,
+          "type": "پایه",
+          "resources": [
+            {
+              "title": "کتاب معادلات دیفرانسیل",
+              "author": "دکتر مسعود نیکوکار",
+              "year": 1401,
+              "type": "PDF",
+              "url": "https://example.com/differential.pdf",
+              "description": "کتاب معادلات دیفرانسیل"
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "code": "1233039",
+          "name": "تفسیر موضوعی نهج البلاغه",
+          "credits": 2,
+          "type": "عمومی",
+          "resources": [
+            {
+              "title": "کتاب تفسیر موضوعی نهج البلاغه",
+              "author": "سازمان سنجش",
+              "year": 1400,
+              "type": "PDF",
+              "url": "https://example.com/balaghe.pdf",
+              "description": "کتاب تفسیر موضوعی نهج البلاغه"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "courses": [
+        {
+          "id": 23,
+          "code": "1322205",
+          "name": "نظریه زبان ها و ماشین ها",
+          "credits": 3,
+          "type": "تخصصی",
+          "resources": [
+            {
+              "title": "کتاب نظریه زبان ها و ماشین ها",
+              "author": "دکتر محمد مهدی پور",
+              "year": 1401,
+              "type": "PDF",
+              "url": "https://example.com/automata.pdf",
+              "description": "کتاب نظریه زبان ها و ماشین ها"
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "code": "1322096",
+          "name": "معماری کامپیوتر",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": [
+            {
+              "title": "کتاب معماری کامپیوتر",
+              "author": "دکتر علی رضایی",
+              "year": 1401,
+              "type": "PDF",
+              "url": "https://example.com/architecture.pdf",
+              "description": "کتاب معماری کامپیوتر"
+            }
+          ]
+        },
+        {
+          "id": 25,
+          "code": "1322209",
+          "name": "طراحی الگوریتم ها",
+          "credits": 3,
+          "type": "تخصصی",
+          "resources": [
+            {
+              "title": "کتاب طراحی الگوریتم ها",
+              "author": "دکتر سید احمد موسوی",
+              "year": 1402,
+              "type": "PDF",
+              "url": "https://example.com/algorithm.pdf",
+              "description": "کتاب طراحی الگوریتم ها"
+            }
+          ]
+        },
+        {
+          "id": 26,
+          "code": "1111214",
+          "name": "ریاضیات مهندسی",
+          "credits": 3,
+          "type": "پایه",
+          "resources": [
+            {
+              "title": "کتاب ریاضیات مهندسی",
+              "author": "دکتر مسعود نیکوکار",
+              "year": 1401,
+              "type": "PDF",
+              "url": "https://example.com/engineering-math.pdf",
+              "description": "کتاب ریاضیات مهندسی"
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "code": "1322207",
+          "name": "مدارهای الکتریکی",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": [
+            {
+              "title": "کتاب مدارهای الکتریکی",
+              "author": "دکتر حسین کریمی",
+              "year": 1401,
+              "type": "PDF",
+              "url": "https://example.com/electric-circuits.pdf",
+              "description": "کتاب مدارهای الکتریکی"
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "code": "1220001",
+          "name": "دانش خانواده و جمعیت",
+          "credits": 2,
+          "type": "عمومی",
+          "resources": [
+            {
+              "title": "کتاب دانش خانواده و جمعیت",
+              "author": "سازمان سنجش",
+              "year": 1400,
+              "type": "PDF",
+              "url": "https://example.com/family.pdf",
+              "description": "کتاب دانش خانواده و جمعیت"
+            }
+          ]
+        },
+        {
+          "id": 29,
+          "code": "1220120",
+          "name": "انقلاب اسلامی ایران",
+          "credits": 2,
+          "type": "عمومی",
+          "resources": [
+            {
+              "title": "کتاب انقلاب اسلامی ایران",
+              "author": "سازمان سنجش",
+              "year": 1400,
+              "type": "PDF",
+              "url": "https://example.com/enghelab.pdf",
+              "description": "کتاب انقلاب اسلامی ایران"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "semester": 5,
+      "courses": [
+        {
+          "id": 30,
+          "code": "1322108",
+          "name": "آزمایشگاه مدارهای منطقی و معماری",
+          "credits": 1,
+          "type": "اصلی",
+          "resources": [
+            {
+              "title": "راهنمای آزمایشگاه مدارهای منطقی و معماری",
+              "author": "دکتر محمد مهدی پور",
+              "year": 1401,
+              "type": "PDF",
+              "url": "https://example.com/logic-lab.pdf",
+              "description": "راهنمای آزمایشگاه"
+            }
+          ]
+        },
+        {
+          "id": 31,
+          "code": "1322101",
+          "name": "سیستم های عامل",
+          "credits": 3,
+          "type": "تخصصی",
+          "resources": [
+            {
+              "title": "کتاب سیستم های عامل",
+              "author": "دکتر علی رضایی",
+              "year": 1401,
+              "type": "PDF",
+              "url": "https://example.com/os.pdf",
+              "description": "کتاب سیستم های عامل"
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "code": "1322210",
+          "name": "سیگنال ها و سیستم ها",
+          "credits": 3,
+          "type": "تخصصی",
+          "resources": [
+            {
+              "title": "کتاب سیگنال ها و سیستم ها",
+              "author": "دکتر حسین کریمی",
+              "year": 1401,
+              "type": "PDF",
+              "url": "https://example.com/signals.pdf",
+              "description": "کتاب سیگنال ها و سیستم ها"
+            }
+          ]
+        },
+        {
+          "id": 33,
+          "code": "1322098",
+          "name": "تحلیل و طراحی سیستم ها",
+          "credits": 3,
+          "type": "تخصصی",
+          "resources": [
+            {
+              "title": "کتاب تحلیل و طراحی سیستم ها",
+              "author": "دکتر سید احمد موسوی",
+              "year": 1402,
+              "type": "PDF",
+              "url": "https://example.com/sa.pdf",
+              "description": "کتاب تحلیل و طراحی سیستم ها"
+            }
+          ]
+        },
+        {
+          "id": 34,
+          "code": "1322109",
+          "name": "پایگاه داده ها",
+          "credits": 3,
+          "type": "تخصصی",
+          "resources": [
+            {
+              "title": "کتاب پایگاه داده ها",
+              "author": "دکتر محمد مهدی پور",
+              "year": 1401,
+              "type": "PDF",
+              "url": "https://example.com/db.pdf",
+              "description": "کتاب پایگاه داده ها"
+            }
+          ]
+        },
+        {
+          "id": 35,
+          "code": "1220643",
+          "name": "روش پژوهش و ارائه",
+          "credits": 2,
+          "type": "عمومی",
+          "resources": [
+            {
+              "title": "کتاب روش پژوهش و ارائه",
+              "author": "سازمان سنجش",
+              "year": 1400,
+              "type": "PDF",
+              "url": "https://example.com/research.pdf",
+              "description": "کتاب روش پژوهش و ارائه"
+            }
+          ]
+        },
+        {
+          "id": 36,
+          "code": "1220225",
+          "name": "اندیشه اسلامی ۲",
+          "credits": 2,
+          "type": "عمومی",
+          "resources": [
+            {
+              "title": "کتاب اندیشه اسلامی ۲",
+              "author": "سازمان سنجش",
+              "year": 1400,
+              "type": "PDF",
+              "url": "https://example.com/islamic-2.pdf",
+              "description": "کتاب اندیشه اسلامی ۲"
+            }
+          ]
+        },
+        {
+          "id": 37,
+          "code": "1322115",
+          "name": "هوش مصنوعی و سیستم های خبره",
+          "credits": 3,
+          "type": "تخصصی",
+          "resources": [
+            {
+              "title": "کتاب هوش مصنوعی",
+              "author": "دکتر سید احمد موسوی",
+              "year": 1402,
+              "type": "PDF",
+              "url": "https://example.com/ai.pdf",
+              "description": "کتاب هوش مصنوعی"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "semester": 6,
+      "courses": [
+        {
+          "id": 38,
+          "code": "1322116",
+          "name": "اصول طراحی کامپایلر",
+          "credits": 3,
+          "type": "تخصصی",
+          "resources": [
+            {
+              "title": "کتاب اصول طراحی کامپایلر",
+              "author": "دکتر محمد مهدی پور",
+              "year": 1401,
+              "type": "PDF",
+              "url": "https://example.com/compiler.pdf",
+              "description": "کتاب اصول طراحی کامپایلر"
+            }
+          ]
+        },
+        {
+          "id": 39,
+          "code": "1322118",
+          "name": "شبکه های کامپیوتری",
+          "credits": 3,
+          "type": "تخصصی",
+          "resources": [
+            {
+              "title": "کتاب شبکه های کامپیوتری",
+              "author": "دکتر علی رضایی",
+              "year": 1401,
+              "type": "PDF",
+              "url": "https://example.com/network.pdf",
+              "description": "کتاب شبکه های کامپیوتری"
+            }
+          ]
+        },
+        {
+          "id": 40,
+          "code": "1322104",
+          "name": "آزمایشگاه سیستم های عامل",
+          "credits": 1,
+          "type": "تخصصی",
+          "resources": [
+            {
+              "title": "راهنمای آزمایشگاه سیستم های عامل",
+              "author": "دکتر علی رضایی",
+              "year": 1401,
+              "type": "PDF",
+              "url": "https://example.com/os-lab.pdf",
+              "description": "راهنمای آزمایشگاه سیستم های عامل"
+            }
+          ]
+        },
+        {
+          "id": 41,
+          "code": "1322126",
+          "name": "مهندسی اینترنت",
+          "credits": 3,
+          "type": "تخصصی",
+          "resources": [
+            {
+              "title": "کتاب مهندسی اینترنت",
+              "author": "دکتر سید احمد موسوی",
+              "year": 1402,
+              "type": "PDF",
+              "url": "https://example.com/internet.pdf",
+              "description": "کتاب مهندسی اینترنت"
+            }
+          ]
+        },
+        {
+          "id": 42,
+          "code": "1322097",
+          "name": "ریزپردازنده و زبان اسمبلی",
+          "credits": 3,
+          "type": "تخصصی",
+          "resources": [
+            {
+              "title": "کتاب ریزپردازنده و زبان اسمبلی",
+              "author": "دکتر محمد مهدی پور",
+              "year": 1401,
+              "type": "PDF",
+              "url": "https://example.com/asm.pdf",
+              "description": "کتاب ریزپردازنده و زبان اسمبلی"
+            }
+          ]
+        },
+        {
+          "id": 43,
+          "code": "1220122",
+          "name": "تاریخ اسلام",
+          "credits": 2,
+          "type": "عمومی",
+          "resources": [
+            {
+              "title": "کتاب تاریخ اسلام",
+              "author": "سازمان سنجش",
+              "year": 1400,
+              "type": "PDF",
+              "url": "https://example.com/history.pdf",
+              "description": "کتاب تاریخ اسلام"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "semester": 7,
+      "courses": [
+        {
+          "id": 44,
+          "code": "1322142",
+          "name": "طراحی زبان های برنامه سازی",
+          "credits": 3,
+          "type": "تخصصی",
+          "resources": [
+            {
+              "title": "کتاب طراحی زبان های برنامه سازی",
+              "author": "دکتر سید احمد موسوی",
+              "year": 1402,
+              "type": "PDF",
+              "url": "https://example.com/pl.pdf",
+              "description": "کتاب طراحی زبان های برنامه سازی"
+            }
+          ]
+        },
+        {
+          "id": 45,
+          "code": "1322145",
+          "name": "مهندسی نرم افزار",
+          "credits": 3,
+          "type": "تخصصی",
+          "resources": [
+            {
+              "title": "کتاب مهندسی نرم افزار",
+              "author": "دکتر علی رضایی",
+              "year": 1401,
+              "type": "PDF",
+              "url": "https://example.com/se.pdf",
+              "description": "کتاب مهندسی نرم افزار"
+            }
+          ]
+        },
+        {
+          "id": 46,
+          "code": "1322128",
+          "name": "آزمایشگاه شبکه های کامپیوتری",
+          "credits": 1,
+          "type": "تخصصی",
+          "resources": [
+            {
+              "title": "راهنمای آزمایشگاه شبکه های کامپیوتری",
+              "author": "دکتر علی رضایی",
+              "year": 1401,
+              "type": "PDF",
+              "url": "https://example.com/network-lab.pdf",
+              "description": "راهنمای آزمایشگاه شبکه"
+            }
+          ]
+        },
+        {
+          "id": 47,
+          "code": "1322189",
+          "name": "پروژه",
+          "credits": 3,
+          "type": "تخصصی",
+          "resources": [
+            {
+              "title": "راهنمای پروژه",
+              "author": "دانشگاه پیام نور",
+              "year": 1402,
+              "type": "PDF",
+              "url": "https://example.com/project.pdf",
+              "description": "راهنمای انجام پروژه"
+            }
+          ]
+        },
+        {
+          "id": 48,
+          "code": "1322055",
+          "name": "کارآموزی",
+          "credits": 1,
+          "type": "تخصصی",
+          "resources": [
+            {
+              "title": "راهنمای کارآموزی",
+              "author": "دانشگاه پیام نور",
+              "year": 1402,
+              "type": "PDF",
+              "url": "https://example.com/care.pdf",
+              "description": "راهنمای کارآموزی"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "semester": 8,
+      "courses": []
+    }
+  ]
+}

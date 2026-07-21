@@ -1,0 +1,477 @@
+{
+  "field": "مهندسی صنایع",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "id": 1,
+          "code": "",
+          "name": "ریاضی 1",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 2,
+          "code": "",
+          "name": "فیزیک 1",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 3,
+          "code": "",
+          "name": "اقتصاد عمومی 1",
+          "credits": 2,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 4,
+          "code": "",
+          "name": "نقشه‌کشی صنعتی",
+          "credits": 2,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 5,
+          "code": "",
+          "name": "کارگاه ماشین افزار 1",
+          "credits": 1,
+          "type": "کارگاه",
+          "resources": []
+        },
+        {
+          "id": 6,
+          "code": "",
+          "name": "زبان فارسی",
+          "credits": 3,
+          "type": "عمومی",
+          "resources": []
+        },
+        {
+          "id": 7,
+          "code": "",
+          "name": "زبان انگلیسی",
+          "credits": 3,
+          "type": "عمومی",
+          "resources": []
+        },
+        {
+          "id": 8,
+          "code": "",
+          "name": "تربیت بدنی 1",
+          "credits": 1,
+          "type": "عمومی",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "id": 9,
+          "code": "",
+          "name": "ریاضی 2",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 10,
+          "code": "",
+          "name": "آزمایشگاه فیزیک 1",
+          "credits": 1,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 11,
+          "code": "",
+          "name": "فیزیک 2",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 12,
+          "code": "",
+          "name": "مبانی برنامه‌نویسی",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 13,
+          "code": "",
+          "name": "روش‌های تولید",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 14,
+          "code": "",
+          "name": "کارگاه عمومی جوش",
+          "credits": 1,
+          "type": "کارگاه",
+          "resources": []
+        },
+        {
+          "id": 15,
+          "code": "",
+          "name": "اندیشه اسلامی 1",
+          "credits": 2,
+          "type": "عمومی",
+          "resources": []
+        },
+        {
+          "id": 16,
+          "code": "",
+          "name": "تربیت بدنی 2",
+          "credits": 1,
+          "type": "عمومی",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "courses": [
+        {
+          "id": 17,
+          "code": "",
+          "name": "معادلات دیفرانسیل",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 18,
+          "code": "",
+          "name": "آزمایشگاه فیزیک 2",
+          "credits": 1,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 19,
+          "code": "",
+          "name": "اقتصاد عمومی 2",
+          "credits": 2,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 20,
+          "code": "",
+          "name": "ارزیابی کار و زمان",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 21,
+          "code": "",
+          "name": "تئوری احتمالات و کاربرد آن",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 22,
+          "code": "",
+          "name": "جبر خطی",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 23,
+          "code": "",
+          "name": "کارگاه ریخته‌گری",
+          "credits": 1,
+          "type": "کارگاه",
+          "resources": []
+        },
+        {
+          "id": 24,
+          "code": "",
+          "name": "اندیشه اسلامی 2",
+          "credits": 2,
+          "type": "عمومی",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "courses": [
+        {
+          "id": 25,
+          "code": "",
+          "name": "محاسبات عددی",
+          "credits": 2,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 26,
+          "code": "",
+          "name": "اقتصاد مهندسی",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 27,
+          "code": "",
+          "name": "تحقیق در عملیات 1",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 28,
+          "code": "",
+          "name": "آمار مهندسی",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 29,
+          "code": "",
+          "name": "استاتیک و مقاومت مصالح",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 30,
+          "code": "",
+          "name": "علم مواد",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 31,
+          "code": "",
+          "name": "انقلاب اسلامی ایران",
+          "credits": 2,
+          "type": "عمومی",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "semester": 5,
+      "courses": [
+        {
+          "id": 32,
+          "code": "",
+          "name": "تحقیق در عملیات 2",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 33,
+          "code": "",
+          "name": "برنامه‌ریزی و کنترل تولید و موجودی‌ها 1",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 34,
+          "code": "",
+          "name": "اصول حسابداری و هزینه‌یابی",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 35,
+          "code": "",
+          "name": "کنترل کیفیت آماری",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 36,
+          "code": "",
+          "name": "مدیریت و کنترل پروژه",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 37,
+          "code": "",
+          "name": "طرح‌ریزی واحدهای صنعتی",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 38,
+          "code": "",
+          "name": "دانش خانواده و جمعیت",
+          "credits": 2,
+          "type": "عمومی",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "semester": 6,
+      "courses": [
+        {
+          "id": 39,
+          "code": "",
+          "name": "اصول شبیه‌سازی",
+          "credits": 3,
+          "type": "اختیاری",
+          "resources": []
+        },
+        {
+          "id": 40,
+          "code": "",
+          "name": "برنامه‌ریزی تولید",
+          "credits": 3,
+          "type": "اختیاری",
+          "resources": []
+        },
+        {
+          "id": 41,
+          "code": "",
+          "name": "مدیریت کیفیت و بهره‌وری",
+          "credits": 3,
+          "type": "اختیاری",
+          "resources": []
+        },
+        {
+          "id": 42,
+          "code": "",
+          "name": "مهندسی فاکتورهای انسانی",
+          "credits": 3,
+          "type": "اختیاری",
+          "resources": []
+        },
+        {
+          "id": 43,
+          "code": "",
+          "name": "مبانی مهندسی برق",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 44,
+          "code": "",
+          "name": "آزمایشگاه مبانی برق",
+          "credits": 1,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 45,
+          "code": "",
+          "name": "تاریخ فرهنگ و تمدن اسلامی",
+          "credits": 2,
+          "type": "عمومی",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "semester": 7,
+      "courses": [
+        {
+          "id": 46,
+          "code": "",
+          "name": "برنامه‌ریزی نگهداری و تعمیرات",
+          "credits": 3,
+          "type": "اختیاری",
+          "resources": []
+        },
+        {
+          "id": 47,
+          "code": "",
+          "name": "برنامه‌ریزی و کنترل تولید و موجودی‌ها 2",
+          "credits": 3,
+          "type": "اختیاری",
+          "resources": []
+        },
+        {
+          "id": 48,
+          "code": "",
+          "name": "مدل‌های احتمالی و تئوری صف",
+          "credits": 3,
+          "type": "اختیاری",
+          "resources": []
+        },
+        {
+          "id": 49,
+          "code": "",
+          "name": "تحلیل سیستم‌ها",
+          "credits": 3,
+          "type": "اختیاری",
+          "resources": []
+        },
+        {
+          "id": 50,
+          "code": "",
+          "name": "کارآموزی",
+          "credits": 1,
+          "type": "اصلی",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "semester": 8,
+      "courses": [
+        {
+          "id": 51,
+          "code": "",
+          "name": "پروژه کارشناسی",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 52,
+          "code": "",
+          "name": "درس اختیاری 1",
+          "credits": 3,
+          "type": "اختیاری",
+          "resources": []
+        },
+        {
+          "id": 53,
+          "code": "",
+          "name": "درس اختیاری 2",
+          "credits": 3,
+          "type": "اختیاری",
+          "resources": []
+        },
+        {
+          "id": 54,
+          "code": "",
+          "name": "درس اختیاری 3",
+          "credits": 3,
+          "type": "اختیاری",
+          "resources": []
+        }
+      ]
+    }
+  ]
+}

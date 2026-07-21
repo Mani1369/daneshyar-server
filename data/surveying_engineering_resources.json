@@ -1,0 +1,89 @@
+{
+  "field": "مهندسی نقشه‌برداری",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        { "id": 1, "code": "", "name": "ریاضی عمومی 1", "credits": 3, "type": "پایه", "resources": [] },
+        { "id": 2, "code": "", "name": "فیزیک 1", "credits": 3, "type": "پایه", "resources": [] },
+        { "id": 3, "code": "", "name": "مبانی نقشه‌برداری", "credits": 2, "type": "اصلی", "resources": [] },
+        { "id": 4, "code": "", "name": "برنامه‌نویسی کامپیوتر", "credits": 3, "type": "پایه", "resources": [] },
+        { "id": 5, "code": "", "name": "زبان فارسی", "credits": 3, "type": "عمومی", "resources": [] },
+        { "id": 6, "code": "", "name": "زبان انگلیسی", "credits": 3, "type": "عمومی", "resources": [] },
+        { "id": 7, "code": "", "name": "اندیشه اسلامی 1", "credits": 2, "type": "عمومی", "resources": [] },
+        { "id": 8, "code": "", "name": "تربیت بدنی 1", "credits": 1, "type": "عمومی", "resources": [] }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        { "id": 9, "code": "", "name": "ریاضی عمومی 2", "credits": 3, "type": "پایه", "resources": [] },
+        { "id": 10, "code": "", "name": "فیزیک 2", "credits": 3, "type": "پایه", "resources": [] },
+        { "id": 11, "code": "", "name": "نقشه‌برداری 1", "credits": 3, "type": "اصلی", "resources": [] },
+        { "id": 12, "code": "", "name": "کارتوگرافی", "credits": 2, "type": "اصلی", "resources": [] },
+        { "id": 13, "code": "", "name": "اندیشه اسلامی 2", "credits": 2, "type": "عمومی", "resources": [] },
+        { "id": 14, "code": "", "name": "تاریخ فرهنگ و تمدن اسلامی", "credits": 2, "type": "عمومی", "resources": [] },
+        { "id": 15, "code": "", "name": "تربیت بدنی 2", "credits": 1, "type": "عمومی", "resources": [] }
+      ]
+    },
+    {
+      "semester": 3,
+      "courses": [
+        { "id": 16, "code": "", "name": "معادلات دیفرانسیل", "credits": 3, "type": "پایه", "resources": [] },
+        { "id": 17, "code": "", "name": "نقشه‌برداری 2", "credits": 3, "type": "اصلی", "resources": [] },
+        { "id": 18, "code": "", "name": "سیستم‌های اطلاعات جغرافیایی (GIS)", "credits": 3, "type": "تخصصی", "resources": [] },
+        { "id": 19, "code": "", "name": "سنجش از دور", "credits": 3, "type": "تخصصی", "resources": [] },
+        { "id": 20, "code": "", "name": "آمار و احتمالات مهندسی", "credits": 3, "type": "پایه", "resources": [] },
+        { "id": 21, "code": "", "name": "انقلاب اسلامی ایران", "credits": 2, "type": "عمومی", "resources": [] }
+      ]
+    },
+    {
+      "semester": 4,
+      "courses": [
+        { "id": 22, "code": "", "name": "نقشه‌برداری 3", "credits": 3, "type": "اصلی", "resources": [] },
+        { "id": 23, "code": "", "name": "هیدروگرافی", "credits": 3, "type": "تخصصی", "resources": [] },
+        { "id": 24, "code": "", "name": "ژئودزی", "credits": 3, "type": "تخصصی", "resources": [] },
+        { "id": 25, "code": "", "name": "کاربرد کامپیوتر در نقشه‌برداری", "credits": 2, "type": "تخصصی", "resources": [] },
+        { "id": 26, "code": "", "name": "دانش خانواده و جمعیت", "credits": 2, "type": "عمومی", "resources": [] },
+        { "id": 27, "code": "", "name": "زبان تخصصی", "credits": 2, "type": "عمومی", "resources": [] }
+      ]
+    },
+    {
+      "semester": 5,
+      "courses": [
+        { "id": 28, "code": "", "name": "فتوگرامتری", "credits": 3, "type": "تخصصی", "resources": [] },
+        { "id": 29, "code": "", "name": "نقشه‌برداری زمینی", "credits": 3, "type": "تخصصی", "resources": [] },
+        { "id": 30, "code": "", "name": "پردازش داده‌های مکانی", "credits": 3, "type": "تخصصی", "resources": [] },
+        { "id": 31, "code": "", "name": "قوانین و مقررات کاداستر", "credits": 2, "type": "تخصصی", "resources": [] },
+        { "id": 32, "code": "", "name": "مدیریت پروژه", "credits": 2, "type": "اختیاری", "resources": [] }
+      ]
+    },
+    {
+      "semester": 6,
+      "courses": [
+        { "id": 33, "code": "", "name": "سیستم‌های موقعیت یابی (GPS)", "credits": 3, "type": "تخصصی", "resources": [] },
+        { "id": 34, "code": "", "name": "نقشه‌برداری شهری", "credits": 3, "type": "تخصصی", "resources": [] },
+        { "id": 35, "code": "", "name": "تحلیل داده‌های مکانی", "credits": 3, "type": "تخصصی", "resources": [] },
+        { "id": 36, "code": "", "name": "کارگاه نقشه‌برداری", "credits": 1, "type": "کارگاه", "resources": [] },
+        { "id": 37, "code": "", "name": "درس اختیاری 1", "credits": 3, "type": "اختیاری", "resources": [] }
+      ]
+    },
+    {
+      "semester": 7,
+      "courses": [
+        { "id": 38, "code": "", "name": "پروژه کارشناسی", "credits": 3, "type": "تخصصی", "resources": [] },
+        { "id": 39, "code": "", "name": "کارآموزی", "credits": 1, "type": "اصلی", "resources": [] },
+        { "id": 40, "code": "", "name": "درس اختیاری 2", "credits": 3, "type": "اختیاری", "resources": [] },
+        { "id": 41, "code": "", "name": "درس اختیاری 3", "credits": 3, "type": "اختیاری", "resources": [] }
+      ]
+    },
+    {
+      "semester": 8,
+      "courses": [
+        { "id": 42, "code": "", "name": "سمینار", "credits": 2, "type": "تخصصی", "resources": [] },
+        { "id": 43, "code": "", "name": "درس اختیاری 4", "credits": 3, "type": "اختیاری", "resources": [] },
+        { "id": 44, "code": "", "name": "درس اختیاری 5", "credits": 3, "type": "اختیاری", "resources": [] }
+      ]
+    }
+  ]
+}

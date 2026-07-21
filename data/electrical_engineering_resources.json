@@ -1,0 +1,445 @@
+{
+  "field": "مهندسی برق",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "id": 1,
+          "code": "",
+          "name": "ریاضی عمومی 1",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 2,
+          "code": "",
+          "name": "فیزیک 1",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 3,
+          "code": "",
+          "name": "زبان انگلیسی",
+          "credits": 3,
+          "type": "عمومی",
+          "resources": []
+        },
+        {
+          "id": 4,
+          "code": "",
+          "name": "نقشه‌کشی مهندسی",
+          "credits": 1,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 5,
+          "code": "",
+          "name": "تربیت بدنی 1",
+          "credits": 1,
+          "type": "عمومی",
+          "resources": []
+        },
+        {
+          "id": 6,
+          "code": "",
+          "name": "کارگاه عمومی",
+          "credits": 1,
+          "type": "عمومی",
+          "resources": []
+        },
+        {
+          "id": 7,
+          "code": "",
+          "name": "آزمایشگاه فیزیک 1",
+          "credits": 1,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 8,
+          "code": "",
+          "name": "تاریخ فرهنگ و تمدن اسلامی",
+          "credits": 2,
+          "type": "عمومی",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "id": 9,
+          "code": "",
+          "name": "ریاضی عمومی 2",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 10,
+          "code": "",
+          "name": "فیزیک 2",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 11,
+          "code": "",
+          "name": "معادلات دیفرانسیل",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 12,
+          "code": "",
+          "name": "برنامه‌نویسی کامپیوتر",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 13,
+          "code": "",
+          "name": "زبان تخصصی برق",
+          "credits": 2,
+          "type": "عمومی",
+          "resources": []
+        },
+        {
+          "id": 14,
+          "code": "",
+          "name": "تربیت بدنی 2",
+          "credits": 1,
+          "type": "عمومی",
+          "resources": []
+        },
+        {
+          "id": 15,
+          "code": "",
+          "name": "آزمایشگاه فیزیک 2",
+          "credits": 1,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 16,
+          "code": "",
+          "name": "قرآن",
+          "credits": 1,
+          "type": "عمومی",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "courses": [
+        {
+          "id": 17,
+          "code": "",
+          "name": "احتمال مهندسی",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 18,
+          "code": "",
+          "name": "ریاضیات مهندسی",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 19,
+          "code": "",
+          "name": "آشنایی با مهندسی برق",
+          "credits": 1,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 20,
+          "code": "",
+          "name": "مدارهاى الکتریکی 1",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 21,
+          "code": "",
+          "name": "الکترومغناطیس",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 22,
+          "code": "",
+          "name": "زبان فارسی",
+          "credits": 3,
+          "type": "عمومی",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "courses": [
+        {
+          "id": 23,
+          "code": "",
+          "name": "مدارهاى الکتریکی 2",
+          "credits": 2,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 24,
+          "code": "",
+          "name": "سیگنال ها و سیستم ها",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 25,
+          "code": "",
+          "name": "الکترونیک 1",
+          "credits": 2,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 26,
+          "code": "",
+          "name": "ماشین هاى الکتریکی 1",
+          "credits": 2,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 27,
+          "code": "",
+          "name": "سیستم هاى دیجیتال 1",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 28,
+          "code": "",
+          "name": "محاسبات عددی",
+          "credits": 2,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 29,
+          "code": "",
+          "name": "آز مدارهاى الکتریکی و اندازه گیرى",
+          "credits": 1,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 30,
+          "code": "",
+          "name": "آز سیستم هاى دیجیتال 1",
+          "credits": 1,
+          "type": "اصلی",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "semester": 5,
+      "courses": [
+        {
+          "id": 31,
+          "code": "",
+          "name": "سیستم هاى کنترل خطی",
+          "credits": 3,
+          "type": "تخصصی",
+          "resources": []
+        },
+        {
+          "id": 32,
+          "code": "",
+          "name": "الکترونیک 2",
+          "credits": 2,
+          "type": "تخصصی",
+          "resources": []
+        },
+        {
+          "id": 33,
+          "code": "",
+          "name": "ماشین هاى الکتریکی 2",
+          "credits": 2,
+          "type": "تخصصی",
+          "resources": []
+        },
+        {
+          "id": 34,
+          "code": "",
+          "name": "اصول سیستم هاى مخابراتی",
+          "credits": 3,
+          "type": "تخصصی",
+          "resources": []
+        },
+        {
+          "id": 35,
+          "code": "",
+          "name": "سیستم هاى دیجیتال 2",
+          "credits": 3,
+          "type": "تخصصی",
+          "resources": []
+        },
+        {
+          "id": 36,
+          "code": "",
+          "name": "دانش خانواده و جمعیت",
+          "credits": 2,
+          "type": "عمومی",
+          "resources": []
+        },
+        {
+          "id": 37,
+          "code": "",
+          "name": "آز ماشین هاى الکتریکی 1",
+          "credits": 1,
+          "type": "تخصصی",
+          "resources": []
+        },
+        {
+          "id": 38,
+          "code": "",
+          "name": "آز الکترونیک",
+          "credits": 1,
+          "type": "تخصصی",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "semester": 6,
+      "courses": [
+        {
+          "id": 39,
+          "code": "",
+          "name": "مدارهاى الکتریکی 3",
+          "credits": 3,
+          "type": "تخصصی",
+          "resources": []
+        },
+        {
+          "id": 40,
+          "code": "",
+          "name": "سیستم هاى کنترل دیجیتال",
+          "credits": 3,
+          "type": "تخصصی",
+          "resources": []
+        },
+        {
+          "id": 41,
+          "code": "",
+          "name": "مخابرات دیجیتال",
+          "credits": 3,
+          "type": "تخصصی",
+          "resources": []
+        },
+        {
+          "id": 42,
+          "code": "",
+          "name": "ماشین هاى الکتریکی 3",
+          "credits": 2,
+          "type": "تخصصی",
+          "resources": []
+        },
+        {
+          "id": 43,
+          "code": "",
+          "name": "آز ماشین هاى الکتریکی 2",
+          "credits": 1,
+          "type": "تخصصی",
+          "resources": []
+        },
+        {
+          "id": 44,
+          "code": "",
+          "name": "اندیشه اسلامی 1",
+          "credits": 2,
+          "type": "عمومی",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "semester": 7,
+      "courses": [
+        {
+          "id": 45,
+          "code": "",
+          "name": "پروژه کارشناسی",
+          "credits": 3,
+          "type": "تخصصی",
+          "resources": []
+        },
+        {
+          "id": 46,
+          "code": "",
+          "name": "کارآموزی",
+          "credits": 1,
+          "type": "تخصصی",
+          "resources": []
+        },
+        {
+          "id": 47,
+          "code": "",
+          "name": "1 درس تخصصی اختیاری",
+          "credits": 3,
+          "type": "اختیاری",
+          "resources": []
+        },
+        {
+          "id": 48,
+          "code": "",
+          "name": "2 درس تخصصی اختیاری",
+          "credits": 3,
+          "type": "اختیاری",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "semester": 8,
+      "courses": [
+        {
+          "id": 49,
+          "code": "",
+          "name": "3 درس تخصصی اختیاری",
+          "credits": 3,
+          "type": "اختیاری",
+          "resources": []
+        },
+        {
+          "id": 50,
+          "code": "",
+          "name": "4 درس تخصصی اختیاری",
+          "credits": 3,
+          "type": "اختیاری",
+          "resources": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,429 @@
+{
+  "field": "مهندسی مکانیک",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "id": 1,
+          "code": "1819058",
+          "name": "ریاضی عمومی 1",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 2,
+          "code": "1819061",
+          "name": "فیزیک 1",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 3,
+          "code": "1819063",
+          "name": "آزمایشگاه فیزیک 1",
+          "credits": 1,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 4,
+          "code": "1819002",
+          "name": "نقشه‌کشی صنعتی 1",
+          "credits": 2,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 5,
+          "code": "1819043",
+          "name": "شیمی عمومی",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 6,
+          "code": "9010002",
+          "name": "زبان فارسی",
+          "credits": 3,
+          "type": "عمومی",
+          "resources": []
+        },
+        {
+          "id": 7,
+          "code": "9010003",
+          "name": "زبان انگلیسی",
+          "credits": 3,
+          "type": "عمومی",
+          "resources": []
+        },
+        {
+          "id": 8,
+          "code": "1624001",
+          "name": "تربیت بدنی 1",
+          "credits": 1,
+          "type": "عمومی",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "id": 9,
+          "code": "1819004",
+          "name": "استاتیک",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 10,
+          "code": "1819059",
+          "name": "ریاضی عمومی 2",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 11,
+          "code": "1819054",
+          "name": "فیزیک 2",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 12,
+          "code": "1819005",
+          "name": "نقشه‌کشی صنعتی 2",
+          "credits": 2,
+          "type": "تخصصی الزامی",
+          "resources": []
+        },
+        {
+          "id": 13,
+          "code": "1819003",
+          "name": "برنامه‌نویسی کامپیوتر",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 14,
+          "code": "1624002",
+          "name": "ورزش 1",
+          "credits": 1,
+          "type": "عمومی",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "courses": [
+        {
+          "id": 15,
+          "code": "1819008",
+          "name": "دینامیک",
+          "credits": 4,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 16,
+          "code": "1819007",
+          "name": "مقاومت مصالح 1",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 17,
+          "code": "1819006",
+          "name": "علم مواد",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 18,
+          "code": "1819009",
+          "name": "زبان تخصصی",
+          "credits": 2,
+          "type": "تخصصی الزامی",
+          "resources": []
+        },
+        {
+          "id": 19,
+          "code": "1819064",
+          "name": "آزمایشگاه فیزیک 2",
+          "credits": 1,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 20,
+          "code": "1819001",
+          "name": "معادلات دیفرانسیل",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "courses": [
+        {
+          "id": 21,
+          "code": "1819015",
+          "name": "طراحی اجزا 1",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 22,
+          "code": "1819010",
+          "name": "ریاضی مهندسی",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 23,
+          "code": "1819013",
+          "name": "مقاومت مصالح 2",
+          "credits": 2,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 24,
+          "code": "1819014",
+          "name": "مکانیک سیالات 1",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 25,
+          "code": "1819012",
+          "name": "ترمودینامیک 1",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 26,
+          "code": "1819011",
+          "name": "محاسبات عددی",
+          "credits": 2,
+          "type": "پایه",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "semester": 5,
+      "courses": [
+        {
+          "id": 27,
+          "code": "1819020",
+          "name": "طراحی اجزا 2",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 28,
+          "code": "1819019",
+          "name": "ارتعاشات مکانیکی",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 29,
+          "code": "1819021",
+          "name": "آزمایشگاه مقاومت مصالح",
+          "credits": 1,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 30,
+          "code": "1819016",
+          "name": "ترمودینامیک 2",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 31,
+          "code": "1819017",
+          "name": "مکانیک سیالات 2",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 32,
+          "code": "1819018",
+          "name": "مبانی مهندسی برق 1",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "semester": 6,
+      "courses": [
+        {
+          "id": 33,
+          "code": "1819022",
+          "name": "انتقال حرارت 1",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 34,
+          "code": "1819027",
+          "name": "مبانی مهندسی برق 2",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 35,
+          "code": "1819024",
+          "name": "کنترل اتومکانیک",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 36,
+          "code": "1819025",
+          "name": "دینامیک ماشین",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 37,
+          "code": "1819026",
+          "name": "آزمایشگاه ترمودینامیک",
+          "credits": 1,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 38,
+          "code": "1819032",
+          "name": "آزمایشگاه مکانیک سیالات",
+          "credits": 1,
+          "type": "اصلی",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "semester": 7,
+      "courses": [
+        {
+          "id": 39,
+          "code": "1819028",
+          "name": "کارگاه اتومکانیک",
+          "credits": 1,
+          "type": "کارگاه",
+          "resources": []
+        },
+        {
+          "id": 40,
+          "code": "1819029",
+          "name": "کارگاه ماشین ابزار",
+          "credits": 1,
+          "type": "کارگاه",
+          "resources": []
+        },
+        {
+          "id": 41,
+          "code": "1819031",
+          "name": "آزمایشگاه دینامیک و ارتعاشات",
+          "credits": 1,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 42,
+          "code": "1819033",
+          "name": "مدیریت کنترل پروژه",
+          "credits": 2,
+          "type": "تخصصی الزامی",
+          "resources": []
+        },
+        {
+          "id": 43,
+          "code": "1819045",
+          "name": "اجزا محدود",
+          "credits": 3,
+          "type": "تخصصی الزامی",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "semester": 8,
+      "courses": [
+        {
+          "id": 44,
+          "code": "",
+          "name": "پروژه کارشناسی",
+          "credits": 3,
+          "type": "تخصصی",
+          "resources": []
+        },
+        {
+          "id": 45,
+          "code": "",
+          "name": "کارآموزی",
+          "credits": 1,
+          "type": "تخصصی",
+          "resources": []
+        },
+        {
+          "id": 46,
+          "code": "",
+          "name": "درس تخصصی اختیاری 1",
+          "credits": 3,
+          "type": "اختیاری",
+          "resources": []
+        },
+        {
+          "id": 47,
+          "code": "",
+          "name": "درس تخصصی اختیاری 2",
+          "credits": 3,
+          "type": "اختیاری",
+          "resources": []
+        },
+        {
+          "id": 48,
+          "code": "",
+          "name": "درس تخصصی اختیاری 3",
+          "credits": 3,
+          "type": "اختیاری",
+          "resources": []
+        }
+      ]
+    }
+  ]
+}

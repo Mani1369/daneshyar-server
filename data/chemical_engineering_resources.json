@@ -1,0 +1,429 @@
+{
+  "field": "مهندسی شیمی",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "id": 1,
+          "code": "",
+          "name": "ریاضی عمومی 1",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 2,
+          "code": "",
+          "name": "فیزیک 1",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 3,
+          "code": "",
+          "name": "شیمی عمومی 1",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 4,
+          "code": "",
+          "name": "آزمایشگاه شیمی عمومی 1",
+          "credits": 1,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 5,
+          "code": "",
+          "name": "زبان فارسی",
+          "credits": 3,
+          "type": "عمومی",
+          "resources": []
+        },
+        {
+          "id": 6,
+          "code": "",
+          "name": "زبان انگلیسی",
+          "credits": 3,
+          "type": "عمومی",
+          "resources": []
+        },
+        {
+          "id": 7,
+          "code": "",
+          "name": "اندیشه اسلامی 1",
+          "credits": 2,
+          "type": "عمومی",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "id": 8,
+          "code": "",
+          "name": "ریاضی عمومی 2",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 9,
+          "code": "",
+          "name": "فیزیک 2",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 10,
+          "code": "",
+          "name": "شیمی عمومی 2",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 11,
+          "code": "",
+          "name": "آزمایشگاه شیمی عمومی 2",
+          "credits": 1,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 12,
+          "code": "",
+          "name": "برنامه‌نویسی کامپیوتر",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 13,
+          "code": "",
+          "name": "اندیشه اسلامی 2",
+          "credits": 2,
+          "type": "عمومی",
+          "resources": []
+        },
+        {
+          "id": 14,
+          "code": "",
+          "name": "تربیت بدنی 1",
+          "credits": 1,
+          "type": "عمومی",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "courses": [
+        {
+          "id": 15,
+          "code": "",
+          "name": "معادلات دیفرانسیل",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 16,
+          "code": "",
+          "name": "شیمی آلی 1",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 17,
+          "code": "",
+          "name": "آزمایشگاه شیمی آلی 1",
+          "credits": 1,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 18,
+          "code": "",
+          "name": "شیمی تجزیه 1",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 19,
+          "code": "",
+          "name": "آزمایشگاه شیمی تجزیه 1",
+          "credits": 1,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 20,
+          "code": "",
+          "name": "تاریخ فرهنگ و تمدن اسلامی",
+          "credits": 2,
+          "type": "عمومی",
+          "resources": []
+        },
+        {
+          "id": 21,
+          "code": "",
+          "name": "تربیت بدنی 2",
+          "credits": 1,
+          "type": "عمومی",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "courses": [
+        {
+          "id": 22,
+          "code": "",
+          "name": "شیمی آلی 2",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 23,
+          "code": "",
+          "name": "آزمایشگاه شیمی آلی 2",
+          "credits": 1,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 24,
+          "code": "",
+          "name": "شیمی تجزیه 2",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 25,
+          "code": "",
+          "name": "آزمایشگاه شیمی تجزیه 2",
+          "credits": 1,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 26,
+          "code": "",
+          "name": "ترمودینامیک 1",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 27,
+          "code": "",
+          "name": "آمار و احتمالات",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 28,
+          "code": "",
+          "name": "انقلاب اسلامی ایران",
+          "credits": 2,
+          "type": "عمومی",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "semester": 5,
+      "courses": [
+        {
+          "id": 29,
+          "code": "",
+          "name": "ترمودینامیک 2",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 30,
+          "code": "",
+          "name": "مکانیک سیالات",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 31,
+          "code": "",
+          "name": "انتقال حرارت",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 32,
+          "code": "",
+          "name": "انتقال جرم",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 33,
+          "code": "",
+          "name": "شیمی فیزیک",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 34,
+          "code": "",
+          "name": "زبان تخصصی",
+          "credits": 2,
+          "type": "عمومی",
+          "resources": []
+        },
+        {
+          "id": 35,
+          "code": "",
+          "name": "دانش خانواده و جمعیت",
+          "credits": 2,
+          "type": "عمومی",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "semester": 6,
+      "courses": [
+        {
+          "id": 36,
+          "code": "",
+          "name": "عملیات واحد 1",
+          "credits": 3,
+          "type": "تخصصی",
+          "resources": []
+        },
+        {
+          "id": 37,
+          "code": "",
+          "name": "عملیات واحد 2",
+          "credits": 3,
+          "type": "تخصصی",
+          "resources": []
+        },
+        {
+          "id": 38,
+          "code": "",
+          "name": "طراحی راکتورهای شیمیایی",
+          "credits": 3,
+          "type": "تخصصی",
+          "resources": []
+        },
+        {
+          "id": 39,
+          "code": "",
+          "name": "فرآیندهای جداسازی",
+          "credits": 3,
+          "type": "تخصصی",
+          "resources": []
+        },
+        {
+          "id": 40,
+          "code": "",
+          "name": "مبانی مهندسی برق",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 41,
+          "code": "",
+          "name": "آزمایشگاه عملیات واحد",
+          "credits": 1,
+          "type": "تخصصی",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "semester": 7,
+      "courses": [
+        {
+          "id": 42,
+          "code": "",
+          "name": "تصفیه آب و پساب های صنعتی",
+          "credits": 3,
+          "type": "اختیاری",
+          "resources": []
+        },
+        {
+          "id": 43,
+          "code": "",
+          "name": "مدیریت و کنترل پروژه",
+          "credits": 2,
+          "type": "اختیاری",
+          "resources": []
+        },
+        {
+          "id": 44,
+          "code": "",
+          "name": "کارآموزی",
+          "credits": 1,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 45,
+          "code": "",
+          "name": "پروژه کارشناسی",
+          "credits": 3,
+          "type": "تخصصی",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "semester": 8,
+      "courses": [
+        {
+          "id": 46,
+          "code": "",
+          "name": "درس اختیاری 1",
+          "credits": 3,
+          "type": "اختیاری",
+          "resources": []
+        },
+        {
+          "id": 47,
+          "code": "",
+          "name": "درس اختیاری 2",
+          "credits": 3,
+          "type": "اختیاری",
+          "resources": []
+        },
+        {
+          "id": 48,
+          "code": "",
+          "name": "درس اختیاری 3",
+          "credits": 2,
+          "type": "اختیاری",
+          "resources": []
+        }
+      ]
+    }
+  ]
+}

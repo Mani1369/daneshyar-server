@@ -1,0 +1,445 @@
+{
+  "field": "مهندسی پزشکی",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "id": 1,
+          "code": "",
+          "name": "ریاضی عمومی 1",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 2,
+          "code": "",
+          "name": "فیزیک عمومی 1",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 3,
+          "code": "",
+          "name": "آناتومی",
+          "credits": 2,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 4,
+          "code": "",
+          "name": "ادبیات فارسی",
+          "credits": 3,
+          "type": "عمومی",
+          "resources": []
+        },
+        {
+          "id": 5,
+          "code": "",
+          "name": "اندیشه اسلامی 1",
+          "credits": 2,
+          "type": "عمومی",
+          "resources": []
+        },
+        {
+          "id": 6,
+          "code": "",
+          "name": "زبان انگلیسی",
+          "credits": 3,
+          "type": "عمومی",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "id": 7,
+          "code": "",
+          "name": "ریاضی عمومی 2",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 8,
+          "code": "",
+          "name": "فیزیک عمومی 2",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 9,
+          "code": "",
+          "name": "فیزیولوژی",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 10,
+          "code": "",
+          "name": "برنامه‌نویسی کامپیوتر",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 11,
+          "code": "",
+          "name": "مبانی مهندسی پزشکی زیستی",
+          "credits": 2,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 12,
+          "code": "",
+          "name": "اندیشه اسلامی 2",
+          "credits": 2,
+          "type": "عمومی",
+          "resources": []
+        },
+        {
+          "id": 13,
+          "code": "",
+          "name": "ورزش 1",
+          "credits": 1,
+          "type": "عمومی",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "courses": [
+        {
+          "id": 14,
+          "code": "",
+          "name": "معادلات دیفرانسیل",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 15,
+          "code": "",
+          "name": "مدارهای الکتریکی 1",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 16,
+          "code": "",
+          "name": "فیزیک پزشکی",
+          "credits": 2,
+          "type": "تخصصی",
+          "resources": []
+        },
+        {
+          "id": 17,
+          "code": "",
+          "name": "مدارهای منطقی",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 18,
+          "code": "",
+          "name": "زبان تخصصی مهندسی پزشکی",
+          "credits": 2,
+          "type": "تخصصی",
+          "resources": []
+        },
+        {
+          "id": 19,
+          "code": "",
+          "name": "تاریخ فرهنگ و تمدن اسلامی",
+          "credits": 2,
+          "type": "عمومی",
+          "resources": []
+        },
+        {
+          "id": 20,
+          "code": "",
+          "name": "تربیت بدنی 1",
+          "credits": 1,
+          "type": "عمومی",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "courses": [
+        {
+          "id": 21,
+          "code": "",
+          "name": "ریاضیات مهندسی",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 22,
+          "code": "",
+          "name": "مدارهای الکتریکی 2",
+          "credits": 2,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 23,
+          "code": "",
+          "name": "الکترونیک 1",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 24,
+          "code": "",
+          "name": "استاتیک و مقاومت مصالح",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 25,
+          "code": "",
+          "name": "آمار حیاتی و احتمالات",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 26,
+          "code": "",
+          "name": "بیوفیزیک",
+          "credits": 2,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 27,
+          "code": "",
+          "name": "انقلاب اسلامی ایران",
+          "credits": 2,
+          "type": "عمومی",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "semester": 5,
+      "courses": [
+        {
+          "id": 28,
+          "code": "",
+          "name": "سیگنال ها و سیستم ها",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 29,
+          "code": "",
+          "name": "الکترونیک 2",
+          "credits": 3,
+          "type": "تخصصی",
+          "resources": []
+        },
+        {
+          "id": 30,
+          "code": "",
+          "name": "ریزپردازنده",
+          "credits": 3,
+          "type": "تخصصی",
+          "resources": []
+        },
+        {
+          "id": 31,
+          "code": "",
+          "name": "مکانیک سیالات",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 32,
+          "code": "",
+          "name": "بیوشیمی",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 33,
+          "code": "",
+          "name": "تجهیزات عمومی بیمارستان ها",
+          "credits": 2,
+          "type": "تخصصی",
+          "resources": []
+        },
+        {
+          "id": 34,
+          "code": "",
+          "name": "دانش خانواده و جمعیت",
+          "credits": 2,
+          "type": "عمومی",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "semester": 6,
+      "courses": [
+        {
+          "id": 35,
+          "code": "",
+          "name": "سیستم های کنترل خطی",
+          "credits": 3,
+          "type": "تخصصی",
+          "resources": []
+        },
+        {
+          "id": 36,
+          "code": "",
+          "name": "مخابرات آنالوگ و دیجیتال",
+          "credits": 3,
+          "type": "تخصصی",
+          "resources": []
+        },
+        {
+          "id": 37,
+          "code": "",
+          "name": "مقدمه ای بر هوش محاسباتی و زیستی",
+          "credits": 2,
+          "type": "تخصصی",
+          "resources": []
+        },
+        {
+          "id": 38,
+          "code": "",
+          "name": "اندازه گیری الکترونیکی",
+          "credits": 2,
+          "type": "تخصصی",
+          "resources": []
+        },
+        {
+          "id": 39,
+          "code": "",
+          "name": "اصول سیستم های رادیولوژی",
+          "credits": 2,
+          "type": "تخصصی",
+          "resources": []
+        },
+        {
+          "id": 40,
+          "code": "",
+          "name": "بهداشت عمومی",
+          "credits": 2,
+          "type": "عمومی",
+          "resources": []
+        },
+        {
+          "id": 41,
+          "code": "",
+          "name": "تکنیک پالس",
+          "credits": 2,
+          "type": "تخصصی",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "semester": 7,
+      "courses": [
+        {
+          "id": 42,
+          "code": "",
+          "name": "پروژه کارشناسی",
+          "credits": 3,
+          "type": "تخصصی",
+          "resources": []
+        },
+        {
+          "id": 43,
+          "code": "",
+          "name": "کارورزی",
+          "credits": 2,
+          "type": "تخصصی",
+          "resources": []
+        },
+        {
+          "id": 44,
+          "code": "",
+          "name": "درمان با تجهیزات پزشکی",
+          "credits": 3,
+          "type": "اختیاری",
+          "resources": []
+        },
+        {
+          "id": 45,
+          "code": "",
+          "name": "مدیریت خدمات بهداشتی",
+          "credits": 2,
+          "type": "اختیاری",
+          "resources": []
+        },
+        {
+          "id": 46,
+          "code": "",
+          "name": "دینامیک و ارتعاشات در پزشکی",
+          "credits": 3,
+          "type": "اختیاری",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "semester": 8,
+      "courses": [
+        {
+          "id": 47,
+          "code": "",
+          "name": "پروتز و ارتز",
+          "credits": 3,
+          "type": "اختیاری",
+          "resources": []
+        },
+        {
+          "id": 48,
+          "code": "",
+          "name": "تصویربرداری پزشکی",
+          "credits": 3,
+          "type": "اختیاری",
+          "resources": []
+        },
+        {
+          "id": 49,
+          "code": "",
+          "name": "1 اختیاری تخصصی",
+          "credits": 2,
+          "type": "اختیاری",
+          "resources": []
+        },
+        {
+          "id": 50,
+          "code": "",
+          "name": "2 اختیاری تخصصی",
+          "credits": 2,
+          "type": "اختیاری",
+          "resources": []
+        }
+      ]
+    }
+  ]
+}

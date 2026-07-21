@@ -1,0 +1,541 @@
+{
+  "field": "مهندسی نفت",
+  "semesters": [
+    {
+      "semester": 1,
+      "courses": [
+        {
+          "id": 1,
+          "code": "1821009",
+          "name": "ریاضی عمومی 1",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 2,
+          "code": "1821010",
+          "name": "فیزیک 1",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 3,
+          "code": "1821013",
+          "name": "شیمی عمومی",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 4,
+          "code": "1821001",
+          "name": "آشنایی با مهندسی نفت",
+          "credits": 2,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 5,
+          "code": "1821002",
+          "name": "مبانی زمین شناسی",
+          "credits": 2,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 6,
+          "code": "9010002",
+          "name": "زبان فارسی",
+          "credits": 3,
+          "type": "عمومی",
+          "resources": []
+        },
+        {
+          "id": 7,
+          "code": "",
+          "name": "درس عمومی 1",
+          "credits": 2,
+          "type": "عمومی",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {
+          "id": 8,
+          "code": "1821005",
+          "name": "ریاضی عمومی 2",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 9,
+          "code": "1821004",
+          "name": "کاربرد فیزیک در مهندسی نفت",
+          "credits": 2,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 10,
+          "code": "1821006",
+          "name": "آزمایشگاه شیمی عمومی",
+          "credits": 1,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 11,
+          "code": "9010003",
+          "name": "زبان انگلیسی",
+          "credits": 3,
+          "type": "عمومی",
+          "resources": []
+        },
+        {
+          "id": 12,
+          "code": "1821008",
+          "name": "برنامه‌نویسی کامپیوتر",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 13,
+          "code": "1821007",
+          "name": "کارگاه عمومی",
+          "credits": 1,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 14,
+          "code": "1821003",
+          "name": "زمین شناسی رسوبی",
+          "credits": 2,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 15,
+          "code": "",
+          "name": "درس عمومی 2",
+          "credits": 2,
+          "type": "عمومی",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "courses": [
+        {
+          "id": 16,
+          "code": "1821020",
+          "name": "معادلات دیفرانسیل",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 17,
+          "code": "1821021",
+          "name": "موازنه انرژی و مواد",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 18,
+          "code": "1821026",
+          "name": "آزمایشگاه فیزیک 1",
+          "credits": 1,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 19,
+          "code": "1821024",
+          "name": "کارگاه نرم افزار مهندسی",
+          "credits": 1,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 20,
+          "code": "1821022",
+          "name": "استاتیک و مقاومت مصالح",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 21,
+          "code": "1821025",
+          "name": "زبان تخصصی",
+          "credits": 3,
+          "type": "اختیاری",
+          "resources": []
+        },
+        {
+          "id": 22,
+          "code": "1624001",
+          "name": "تربیت بدنی",
+          "credits": 1,
+          "type": "عمومی",
+          "resources": []
+        },
+        {
+          "id": 23,
+          "code": "",
+          "name": "اندیشه اسلامی 1",
+          "credits": 2,
+          "type": "عمومی",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "courses": [
+        {
+          "id": 24,
+          "code": "1821028",
+          "name": "شیمی آلی",
+          "credits": 2,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 25,
+          "code": "1821029",
+          "name": "تحلیل عددی",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 26,
+          "code": "1821030",
+          "name": "ریاضیات مهندسی",
+          "credits": 3,
+          "type": "پایه",
+          "resources": []
+        },
+        {
+          "id": 27,
+          "code": "1821031",
+          "name": "ترمودینامیک",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 28,
+          "code": "1821032",
+          "name": "مکانیک سیالات",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 29,
+          "code": "1821033",
+          "name": "خواص سنگ های مخزن",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 30,
+          "code": "",
+          "name": "درس عمومی 3",
+          "credits": 2,
+          "type": "عمومی",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "semester": 5,
+      "courses": [
+        {
+          "id": 31,
+          "code": "1821034",
+          "name": "کاربرد آمار و احتمالات در مهندسی نفت",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 32,
+          "code": "1821036",
+          "name": "انتقال حرارت 1",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 33,
+          "code": "1821037",
+          "name": "آزمایشگاه مکانیک سیالات",
+          "credits": 1,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 34,
+          "code": "1821015",
+          "name": "مکانیک سیالات دوفازی",
+          "credits": 2,
+          "type": "تخصصی انتخابی",
+          "resources": []
+        },
+        {
+          "id": 35,
+          "code": "1821035",
+          "name": "خواص سیالات مخزن",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 36,
+          "code": "1821014",
+          "name": "زمین شناسی ساختمان",
+          "credits": 2,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 37,
+          "code": "1624002",
+          "name": "ورزش 1",
+          "credits": 1,
+          "type": "عمومی",
+          "resources": []
+        },
+        {
+          "id": 38,
+          "code": "",
+          "name": "اندیشه اسلامی 2",
+          "credits": 2,
+          "type": "عمومی",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "semester": 6,
+      "courses": [
+        {
+          "id": 39,
+          "code": "1821038",
+          "name": "مهندسی حفاری",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 40,
+          "code": "1821039",
+          "name": "مهندسی مخازن",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 41,
+          "code": "1821040",
+          "name": "آزمایشگاه خواص سیالات مخزن",
+          "credits": 1,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 42,
+          "code": "1821041",
+          "name": "آزمایشگاه خواص سنگ های مخزن",
+          "credits": 1,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 43,
+          "code": "1821042",
+          "name": "کاربرد ریاضیات در مهندسی نفت",
+          "credits": 3,
+          "type": "تخصصی انتخابی",
+          "resources": []
+        },
+        {
+          "id": 44,
+          "code": "1821043",
+          "name": "زمین شناسی نفت و منابع هیدروکربوری",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 45,
+          "code": "1821044",
+          "name": "موارد ویژه در مهندسی نفت",
+          "credits": 3,
+          "type": "تخصصی انتخابی",
+          "resources": []
+        },
+        {
+          "id": 46,
+          "code": "",
+          "name": "فرهنگ و تمدن ایران و اسلام",
+          "credits": 2,
+          "type": "عمومی",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "semester": 7,
+      "courses": [
+        {
+          "id": 47,
+          "code": "1821045",
+          "name": "مهندسی بهره برداری",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 48,
+          "code": "1821046",
+          "name": "چاه آزمایی",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 49,
+          "code": "1821047",
+          "name": "مهندسی مخازن کاربردی",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 50,
+          "code": "1821048",
+          "name": "شبیه سازی مخازن",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 51,
+          "code": "1821049",
+          "name": "روش های ازدیاد برداشت از مخازن",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 52,
+          "code": "1821050",
+          "name": "پروژه",
+          "credits": 3,
+          "type": "پروژه",
+          "resources": []
+        },
+        {
+          "id": 53,
+          "code": "",
+          "name": "درس عمومی 4",
+          "credits": 2,
+          "type": "عمومی",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "semester": 8,
+      "courses": [
+        {
+          "id": 54,
+          "code": "1821018",
+          "name": "مخازن کربناته",
+          "credits": 2,
+          "type": "تخصصی انتخابی",
+          "resources": []
+        },
+        {
+          "id": 55,
+          "code": "1821011",
+          "name": "نمودارگیری چاه",
+          "credits": 3,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 56,
+          "code": "1821023",
+          "name": "مدیریت و صیانت از مخازن",
+          "credits": 2,
+          "type": "تخصصی انتخابی",
+          "resources": []
+        },
+        {
+          "id": 57,
+          "code": "1821052",
+          "name": "کارگاه نرم افزار تخصصی 1",
+          "credits": 1,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 58,
+          "code": "1821053",
+          "name": "کارگاه نرم افزار تخصصی 2",
+          "credits": 1,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 59,
+          "code": "1821051",
+          "name": "مبانی فرایندهای صنایع نفت",
+          "credits": 2,
+          "type": "اصلی",
+          "resources": []
+        },
+        {
+          "id": 60,
+          "code": "1821012",
+          "name": "توسعه میادین نفت و گاز",
+          "credits": 3,
+          "type": "تخصصی انتخابی",
+          "resources": []
+        },
+        {
+          "id": 61,
+          "code": "1821054",
+          "name": "کارآموزی",
+          "credits": 1,
+          "type": "کارآموزی",
+          "resources": []
+        },
+        {
+          "id": 62,
+          "code": "",
+          "name": "درس عمومی 5",
+          "credits": 2,
+          "type": "عمومی",
+          "resources": []
+        }
+      ]
+    }
+  ]
+}
